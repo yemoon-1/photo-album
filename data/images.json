@@ -1,28 +1,12 @@
 {
-  "updated_at": "2025-08-02T06:56:06.360Z",
+  "updated_at": "2025-08-02T13:41:23.822Z",
   "images": [
     {
-      "public_id": "스크린샷_2025-07-30_205456_gl8yza",
-      "url": "https://res.cloudinary.com/dnxwucl6z/image/upload/v1753876646/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-07-30_205456_gl8yza.png",
-      "created_at": "2025-07-30T11:57:26+00:00",
+      "public_id": "3d66c8fb474c2c8065c9d7df414fc78d_adqmti",
+      "url": "https://res.cloudinary.com/dnxwucl6z/image/upload/v1754131630/3d66c8fb474c2c8065c9d7df414fc78d_adqmti.jpg",
+      "created_at": "2025-08-02T10:47:10+00:00",
       "taken_at": null,
       "title": null,
-      "alt": null
-    },
-    {
-      "public_id": "스크린샷_2025-07-30_205646_t48ozx",
-      "url": "https://res.cloudinary.com/dnxwucl6z/image/upload/v1753876646/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-07-30_205646_t48ozx.png",
-      "created_at": "2025-07-30T11:57:26+00:00",
-      "taken_at": null,
-      "title": null,
-      "alt": null
-    },
-    {
-      "public_id": "스크린샷_2025-07-30_205310_hodhzp",
-      "url": "https://res.cloudinary.com/dnxwucl6z/image/upload/v1753876646/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7_2025-07-30_205310_hodhzp.png",
-      "created_at": "2025-07-30T11:57:26+00:00",
-      "taken_at": null,
-      "title": "더글로우",
       "alt": null
     }
   ]
